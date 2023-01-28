@@ -1,0 +1,3 @@
+use an extends wildcard when you only get values out of structure,
+use a super wildcard when you only put values into a structure,
+and don't use a wildcard when you both get and put.
