@@ -1,0 +1,2 @@
+When a generic method is invoked, the type parameter may be chosen to match the unknown type represented by a wildcard.
+This is called wildcard capture.
