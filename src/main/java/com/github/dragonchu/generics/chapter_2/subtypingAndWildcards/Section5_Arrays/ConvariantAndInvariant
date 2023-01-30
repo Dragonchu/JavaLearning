@@ -1,0 +1,6 @@
+Array subtyping is covariant, S[] is considered to be a subtype of T[] whenever S is a subtype of T.
+List<S> is not considered to be a subtype of List<T> except in the trivial case where S and T are identical.
+List<S> is considered to be a subtype of List<? extends T> when S is a subtype of T.
+List<S> is considered to be a subtype of List<? super T> when S is a supertype of T.
+
+Covariant arrays are an artifact of the lack of generics in earlier versions of Java.
