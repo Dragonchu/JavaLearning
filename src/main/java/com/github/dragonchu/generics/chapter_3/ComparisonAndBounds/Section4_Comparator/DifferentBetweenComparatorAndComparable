@@ -1,0 +1,2 @@
+The ordering provided by the Comparable interface is called the natural ordering.
+The Comparator provides an unnatural ordering.
