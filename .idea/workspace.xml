@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ee58369-822c-4e4f-b068-022a67260050" name="Changes" comment="">
+    <list default="true" id="1ee58369-822c-4e4f-b068-022a67260050" name="Changes" comment="Comparison and bounds">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
@@ -14,6 +14,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+      <option value="directory" />
+    </option>
+  </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
@@ -22,8 +28,17 @@
       <list>
         <option value="package.json" />
         <option value="package-info" />
+        <option value="Enum" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
   </component>
   <component name="MarkdownSettingsMigration">
@@ -46,30 +61,35 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Example2_GenericMethodCalls">
-    <configuration name="Example1_ContainTestOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.dragonchu.generics.chapter_2.subtypingAndWildcards.Section6_WildcardsVersusTypeParameters.Example1_ContainTestOne" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.dragonchu.generics.chapter_3.ComparisonAndBounds.Section3_FruityExample.PermittingComparsionOfApplesWithOranges" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Example3_Cell2">
+    <configuration name="Example1_Erasure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.dragonchu.generics.chapter_4.Declarations.Section2_StaticMembers.Example1_Erasure" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.dragonchu.generics.chapter_2.subtypingAndWildcards.Section6_WildcardsVersusTypeParameters.*" />
+          <option name="PATTERN" value="com.github.dragonchu.generics.chapter_4.Declarations.Section2_StaticMembers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example1_InstanceCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.dragonchu.generics.chapter_2.subtypingAndWildcards.Section8_RestrictionsOnWildcards.Example1_InstanceCreation" />
+    <configuration name="Example1_Pair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.dragonchu.generics.chapter_4.Declarations.Section1_Constructors.Example1_Pair" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.dragonchu.generics.chapter_2.subtypingAndWildcards.Section8_RestrictionsOnWildcards.*" />
+          <option name="PATTERN" value="com.github.dragonchu.generics.chapter_4.Declarations.Section1_Constructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example1_WrongUsageWithArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.dragonchu.generics.chapter_2.subtypingAndWildcards.Section5_Arrays.Example1_WrongUsageWithArray" />
+    <configuration name="Example1_Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.dragonchu.generics.chapter_3.ComparisonAndBounds.Section8_CovariantOverriding.Example1_Point" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.dragonchu.generics.chapter_2.subtypingAndWildcards.Section5_Arrays.*" />
+          <option name="PATTERN" value="com.github.dragonchu.generics.chapter_3.ComparisonAndBounds.Section8_CovariantOverriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example2_ContainTestTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.dragonchu.generics.chapter_2.subtypingAndWildcards.Section6_WildcardsVersusTypeParameters.Example2_ContainTestTwo" />
+    <configuration name="Example2_Cell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.dragonchu.generics.chapter_4.Declarations.Section2_StaticMembers.Example2_Cell" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.dragonchu.generics.chapter_2.subtypingAndWildcards.Section6_WildcardsVersusTypeParameters.*" />
+          <option name="PATTERN" value="com.github.dragonchu.generics.chapter_4.Declarations.Section2_StaticMembers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example2_GenericMethodCalls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.dragonchu.generics.chapter_2.subtypingAndWildcards.Section8_RestrictionsOnWildcards.Example2_GenericMethodCalls" />
+    <configuration name="Example3_Cell2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.dragonchu.generics.chapter_4.Declarations.Section2_StaticMembers.Example3_Cell2" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.dragonchu.generics.chapter_2.subtypingAndWildcards.Section8_RestrictionsOnWildcards.*" />
+          <option name="PATTERN" value="com.github.dragonchu.generics.chapter_4.Declarations.Section2_StaticMembers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example2_GenericMethodCalls" />
-        <item itemvalue="Application.Example2_ContainTestTwo" />
-        <item itemvalue="Application.Example1_WrongUsageWithArray" />
-        <item itemvalue="Application.Example1_InstanceCreation" />
-        <item itemvalue="Application.Example1_ContainTestOne" />
+        <item itemvalue="Application.Example3_Cell2" />
+        <item itemvalue="Application.Example2_Cell" />
+        <item itemvalue="Application.Example1_Erasure" />
+        <item itemvalue="Application.Example1_Pair" />
+        <item itemvalue="Application.Example1_Point" />
       </list>
     </recent_temporary>
   </component>
@@ -153,11 +173,32 @@
       <workItem from="1674031414917" duration="1879000" />
       <workItem from="1674116431527" duration="617000" />
       <workItem from="1674286898219" duration="2622000" />
-      <workItem from="1674913620949" duration="8890000" />
+      <workItem from="1674913620949" duration="9970000" />
+      <workItem from="1675343658769" duration="11137000" />
     </task>
+    <task id="LOCAL-00001" summary="modify gitignore">
+      <created>1675084880140</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675084880140</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Comparison and bounds">
+      <created>1675692090256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675692090256</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modify gitignore" />
+    <MESSAGE value="Comparison and bounds" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comparison and bounds" />
   </component>
 </project>
